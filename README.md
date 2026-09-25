@@ -2,9 +2,9 @@
 
 ### 💻 Java Full Stack Developer | Spring Boot | Angular | MySQL
 
-🎓 Computer Engineering Graduate  
-💻 Java Full Stack Developer  
-🌱 Currently learning Spring Boot, Angular & REST API Development  
+🎓 Computer Engineering Graduate
+💻 Java Full Stack Developer
+🌱 Currently learning Spring Boot, Angular & REST API Development
 🔍 Open to opportunities as a Java Developer / Software Developer / Full Stack Developer
 
 ---
@@ -22,49 +22,60 @@ I am continuously improving my development skills by building projects and pract
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-- Java
-- JavaScript
-- SQL
+
+* Java
+* JavaScript
+* SQL
 
 ### ⚙️ Backend Technologies
-- Spring
-- Spring Boot
-- JDBC
-- Servlet
-- JSP
-- REST APIs
+
+* Spring
+* Spring Boot
+* JDBC
+* Servlet
+* JSP
+* REST APIs
 
 ### 🎨 Frontend Technologies
-- Angular
-- HTML
-- CSS
-- JavaScript
+
+* Angular
+* HTML
+* CSS
+* JavaScript
 
 ### 🗄️ Database
-- MySQL
-- MariaDB
+
+* MySQL
+* MariaDB
 
 ### 🔧 Tools
-- Git
-- GitHub
-- Postman
-- Eclipse
-- Spring Tool Suite
-- Maven
+
+* Git
+* GitHub
+* Postman
+* Eclipse
+* Spring Tool Suite
+* Maven
 
 ---
 
+## 🏆 Achievements & Certifications
+
+* 🏅 **TCS iON NQT – Cognitive Skills Assessment**
+* ☕ **Java Full Stack Development Course**
+
+---
 
 ## 📚 Currently Learning
 
-- Spring Boot
-- Spring Data JPA
-- Spring Security
-- REST API Development
-- Angular
-- JavaScript
-- SQL & MySQL
-- Full Stack Development
+* Spring Boot
+* Spring Data JPA
+* Spring Security
+* REST API Development
+* Angular
+* JavaScript
+* SQL & MySQL
+* Full Stack Development
 
 ---
 
@@ -72,10 +83,10 @@ I am continuously improving my development skills by building projects and pract
 
 I am looking for an entry-level opportunity where I can work as a:
 
-- Java Developer
-- Spring Boot Developer
-- Software Developer
-- Full Stack Developer
+* Java Developer
+* Spring Boot Developer
+* Software Developer
+* Full Stack Developer
 
 I am interested in working on real-world projects, solving problems and continuously growing as a software developer.
 
@@ -83,14 +94,14 @@ I am interested in working on real-world projects, solving problems and continuo
 
 ## 🔗 Connect With Me
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/aditya-jadhav-778781321/
+## 🤝 Connect With Me
 
-💻 **GitHub**  
-https://github.com/ADITYAJADHAV12
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-jadhav-778781321/)
 
-🌐 **Portfolio**  
-https://adityajadhav12.github.io/Portfolio/resume/
+💻 [GitHub](https://github.com/ADITYAJADHAV12)
+
+🌐 [Portfolio](https://adityajadhav12.github.io/Portfolio/resume/)
+
 
 ---
 
